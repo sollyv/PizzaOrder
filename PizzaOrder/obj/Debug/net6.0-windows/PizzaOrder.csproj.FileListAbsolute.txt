@@ -1,0 +1,17 @@
+C:\Users\Student\source\repos\PizzaOrder\bin\Debug\net6.0-windows\PizzaOrder.exe
+C:\Users\Student\source\repos\PizzaOrder\bin\Debug\net6.0-windows\PizzaOrder.deps.json
+C:\Users\Student\source\repos\PizzaOrder\bin\Debug\net6.0-windows\PizzaOrder.runtimeconfig.json
+C:\Users\Student\source\repos\PizzaOrder\bin\Debug\net6.0-windows\PizzaOrder.dll
+C:\Users\Student\source\repos\PizzaOrder\bin\Debug\net6.0-windows\PizzaOrder.pdb
+C:\Users\Student\source\repos\PizzaOrder\obj\Debug\net6.0-windows\PizzaOrder.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\PizzaOrder\obj\Debug\net6.0-windows\PizzaOrder.Form1.resources
+C:\Users\Student\source\repos\PizzaOrder\obj\Debug\net6.0-windows\PizzaOrder.csproj.GenerateResource.cache
+C:\Users\Student\source\repos\PizzaOrder\obj\Debug\net6.0-windows\PizzaOrder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\PizzaOrder\obj\Debug\net6.0-windows\PizzaOrder.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\PizzaOrder\obj\Debug\net6.0-windows\PizzaOrder.AssemblyInfo.cs
+C:\Users\Student\source\repos\PizzaOrder\obj\Debug\net6.0-windows\PizzaOrder.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\PizzaOrder\obj\Debug\net6.0-windows\PizzaOrder.dll
+C:\Users\Student\source\repos\PizzaOrder\obj\Debug\net6.0-windows\refint\PizzaOrder.dll
+C:\Users\Student\source\repos\PizzaOrder\obj\Debug\net6.0-windows\PizzaOrder.pdb
+C:\Users\Student\source\repos\PizzaOrder\obj\Debug\net6.0-windows\PizzaOrder.genruntimeconfig.cache
+C:\Users\Student\source\repos\PizzaOrder\obj\Debug\net6.0-windows\ref\PizzaOrder.dll
